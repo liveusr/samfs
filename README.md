@@ -1,7 +1,8 @@
 # samfs
 simple distributed file system
-server file : samd.c | client file : masd.c
 ==============================
+server file : samd.c | client file : masd.c
+-------------------------------------------
 
 Running Simple Distributed File System client-server using openstack/amazon cloud instance
 
